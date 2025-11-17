@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner.png" alt="Banner Carlos Calado">
 </p>
-<img src="Carlos-Calado/banner.png" alt="Banner Carlos Calado">
 
 <!-- Banner / Título -->
 <h1 align="center">👋 Olá, eu sou o Carlos Calado</h1>
