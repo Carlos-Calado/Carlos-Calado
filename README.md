@@ -3,7 +3,7 @@
 </p>
 
 <!-- Banner / Título -->
-<h1 align="center">👋 Olá, eu sou o Carlos Calado</h1>
+<h1 align="center">Carlos Eduardo de Souza Calado</h1>
 <h3 align="center">Infraestrutura • Cloud • DevOps • Automação • Engenharia de Software • Data</h3>
 
 ---
