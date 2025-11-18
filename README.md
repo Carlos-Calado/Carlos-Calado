@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Carlos Calado">
+  <img src="banner2.png" alt="Banner Carlos Calado">
 </p>
 
 <!-- Banner / Título -->
